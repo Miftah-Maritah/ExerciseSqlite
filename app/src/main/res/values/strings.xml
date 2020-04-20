@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise Sqlite</string>
+    <string name="daftar_kontak">Daftar Kontak</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="masukan_nomor_telpon">Masukan Nomor Telpon</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="simpan">Simpan</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="alamat">Alamat</string>
+    <string name="email">Email</string>
+    <string name="setting">Setting</string>
+    <string name="batal">Batal</string>
+    <string name="ubah_data">Ubah data</string>
+</resources>
